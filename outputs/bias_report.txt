@@ -1,0 +1,14 @@
+BIAS ANALYSIS REPORT
+============================
+
+Initial Accuracy: 0.8561
+
+Before Bias Mitigation
+----------------------------
+Demographic Parity Difference: 0.1730
+Equalized Odds Difference: 0.0758
+
+After Bias Mitigation
+----------------------------
+Mitigated Demographic Parity Difference: 0.0047
+Mitigated Equalized Odds Difference: 0.1196

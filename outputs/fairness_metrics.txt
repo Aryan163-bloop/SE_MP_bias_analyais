@@ -1,0 +1,6 @@
+FAIRNESS METRICS
+========================
+
+Accuracy: 0.8561
+Demographic Parity Difference: 0.1730
+Equalized Odds Difference: 0.0758
